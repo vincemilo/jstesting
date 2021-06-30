@@ -1,0 +1,1 @@
+JS exercises from the Odin Project
